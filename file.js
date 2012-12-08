@@ -59,8 +59,8 @@ $(function () {
             //-----------------------------
             // I tried the below code but this doesnt work
             /*
-             * $('#showUsernames').text(function () {
-             *    chat.server.getConnectedUsers();
+             * $('#showUsernames').append(function(){
+             *      chat.server.getConnectedUsers();
              * });
              */
            
