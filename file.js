@@ -1,3 +1,10 @@
+//Added References
+
+/*
+* jquery-1.8.2.min.js
+* jquery.signalR-1.0.0-alpha2.min.js
+*/
+
 var showChatName = new Boolean();
 showChatName = true;
 var chatUsername = window.prompt("Enter Username:", "");
@@ -42,17 +49,17 @@ $(function () {
         }
     });
 
+    // Start the connection
     $.connection.hub.start()
     .done(function () {
-        chat.server.GetConnectedUsers().done(function () {
-         //Uncaught TypeError: Object #<Object> has no method 'GetConnectedUsers' 
-            
-         /*display your contacts*/
+        chat.server.getConnectedUsers().done(function () {
+            /*display your contacts*/
         });
+    }).done(function () {
+        chat.server.joined();
     });
-}).done(function () {
-  //Uncaught TypeError: Object [object Object] has no method 'done' 
-
-    chat.joined();
 });
 
+
+
+        
