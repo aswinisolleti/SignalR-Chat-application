@@ -14,8 +14,6 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <%--Visitors online:
-    <%= Application["OnlineUsers"].ToString() %>--%>
     <div id="showUsernames"></div>
     <div id="chat-outline">
         <div id="chat-main">
