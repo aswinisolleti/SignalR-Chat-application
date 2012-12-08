@@ -52,18 +52,10 @@ $(function () {
     // Start the connection
     $.connection.hub.start()
     .done(function () {
-        chat.server.getConnectedUsers().done(function () {
-            /*display your contacts*/
-            //------------------------------
-            // I cant figure it out what should I call here?
-            //-----------------------------
-            // I tried the below code but this doesnt work
-            /*
-             * $('#showUsernames').append(function(){
-             *      chat.server.getConnectedUsers();
-             * });
-             */
-           
+        chat.server.getConnectedUsers().done(function (users) {
+            for (var i = 0; i < users.Length; ++i) {
+                $('#showUsernames').append(users + '<br>');
+            }
         });
     }).done(function () {
         chat.server.joined();
