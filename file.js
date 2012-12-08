@@ -1,9 +1,9 @@
 //Added References
 
 /*
-* jquery-1.8.2.min.js
-* jquery.signalR-1.0.0-alpha2.min.js
-*/
+ * jquery-1.6.4.min.js
+ * jquery.signalR-1.0.0-alpha2.min.js
+ */
 
 var showChatName = new Boolean();
 showChatName = true;
@@ -54,12 +54,18 @@ $(function () {
     .done(function () {
         chat.server.getConnectedUsers().done(function () {
             /*display your contacts*/
+            //------------------------------
+            // I cant figure it out what should I call here?
+            //-----------------------------
+            // I tried the below code but this doesnt work
+            /*
+             * $('#showUsernames').text(function () {
+             *    chat.server.getConnectedUsers();
+             * });
+             */
+           
         });
     }).done(function () {
         chat.server.joined();
-    });
+    });    
 });
-
-
-
-        
