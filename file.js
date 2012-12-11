@@ -21,7 +21,15 @@ $(function () {
     var chat = $.connection.chat; //calling the created class "Chat"
     chat.state.username = chatUsername;
     $.connection.hub.qs = "name=" + chatUsername;
-
+    
+    chat.client.joins = function (ConnectionId, name, Date) {
+        // Thinking what function should I write here
+    };
+    chat.client.leave = function (user, date) { 
+        // Thinking what function should I write here
+    };
+    
+     
     // Declare a function on the chat hub so the server can invoke it          
     chat.client.addMessage = function (chatUsername, message, showChatName) {
 
