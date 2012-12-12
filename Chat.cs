@@ -18,13 +18,13 @@ namespace Webstation_Chat_Application
 
         static ConcurrentDictionary<string, User> _users = new ConcurrentDictionary<string, User>();
 
-        public override Task OnDisconnected()
-        {            
-            var user = _users[Context.ConnectionId]; //user as ConnectionId
-            User removedUser; //new class object
-            _users.TryRemove(Context.ConnectionId, out removedUser);
-            return Clients.All.leave(user, DateTime.Now.ToString());
-        }
+        //public override Task OnDisconnected()
+        //{            
+        //    var user = _users[Context.ConnectionId]; //user as ConnectionId
+        //    User removedUser; //new class object
+        //    _users.TryRemove(Context.ConnectionId, out removedUser);
+        //    return Clients.All.leave(user, DateTime.Now.ToString());
+        //}
 
         public void Joined(string username)
         {
