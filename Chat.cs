@@ -6,7 +6,7 @@ using Microsoft.AspNet.SignalR.Hubs;
 using System.Threading.Tasks;
 using System.Collections.Concurrent;
 
-namespace serverNameExample
+namespace Webstation_Chat_Application
 {
     public class Chat : Hub
     {
@@ -19,21 +19,21 @@ namespace serverNameExample
         static ConcurrentDictionary<string, User> _users = new ConcurrentDictionary<string, User>();
 
         public override Task OnDisconnected()
-        {
-            var user = _users[Context.ConnectionId];
-            User removedUser;
+        {            
+            var user = _users[Context.ConnectionId]; //user as ConnectionId
+            User removedUser; //new class object
             _users.TryRemove(Context.ConnectionId, out removedUser);
             return Clients.All.leave(user, DateTime.Now.ToString());
         }
 
-        public void Joined()
+        public void Joined(string username)
         {
-            User user = new User(Context.ConnectionId,Clients.Caller.username);    
+            User user = new User(Context.ConnectionId, username);
             _users.TryAdd(user.ConnectionID, user);
-            Clients.All.joins(user.ConnectionID, user.Name, DateTime.Now);
+            Clients.All.Joins();
         }
 
-        public List<User> GetConnectedUsers()
+        public List<User> getConnectedUsers()
         {
             return _users.Values.ToList();
         }
