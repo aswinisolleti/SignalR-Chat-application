@@ -24,9 +24,9 @@ $(function () {
     var chat = $.connection.chat; //calling the created class "Chat"
 
     //for removing the username who is disconnected from the server
-    chat.client.leave = function (user, date) {
-        user = "";  //making the string empty so that the disconnected user value will be lost.
-    };
+    //chat.client.leave = function (user, date) {
+     //   user = "";  //making the string empty so that the disconnected user value will be lost.
+    //};
 
 
     $('#txtmsg').keypress(function (e) {
@@ -63,12 +63,15 @@ $(function () {
     });
 
     chat.client.joins = function () {
-        $('#showUsernames').val('').done(function () {
-            chat.server.getConnectedUsers().done(function (users) {
-                for (var i = 0; i < users.length; ++i) {
-                    $('#showUsernames').append(users[i].Name + '<br>');
-                }
-            });
+        //calling the server side method "GetConnectedUsers"
+        //The return value of the method is stored in a variable "users"
+        chat.server.getConnectedUsers().done(function (users) {
+            //clearing the div, to fill it again (over writing)
+            $('#showUsernames').val('');
+            //calling each username stored in a static dictionary on server side using for loop
+            for (var i = 0; i < users.length; ++i) {
+                $('#showUsernames').append('<li>' + users[i].Name + '</li>');
+            }
         });
     };
 });
