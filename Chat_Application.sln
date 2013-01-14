@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Application", "Webstation_Chat_Application\Chat_Application.csproj", "{3B745A59-A2D9-4E43-B374-19E14B1129BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Application", "Chat_Application\Chat_Application.csproj", "{3B745A59-A2D9-4E43-B374-19E14B1129BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{857AED23-A9C4-4ED6-995E-850219C5CD72}"
 EndProject
