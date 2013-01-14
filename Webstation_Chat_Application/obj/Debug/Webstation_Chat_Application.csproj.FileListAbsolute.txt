@@ -1,0 +1,51 @@
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Webstation_Chat_Application.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Webstation_Chat_Application.pdb
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Newtonsoft.Json.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Owin.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\bin\Newtonsoft.Json.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application (before changing to userControl)\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.pdb
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Webstation_Chat_Application.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Webstation_Chat_Application.pdb
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Newtonsoft.Json.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Owin.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\bin\Newtonsoft.Json.xml
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.dll
+C:\Users\Venkatesh\Desktop\Venkateshwar\Main project\Webstation\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.pdb
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Webstation_Chat_Application.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Webstation_Chat_Application.pdb
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Web.Infrastructure.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Newtonsoft.Json.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Owin.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\bin\Newtonsoft.Json.xml
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\ResolveAssemblyReference.cache
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.dll
+D:\My documents\venkateshwar\My Works\Osmosys Main Project\Webstation_Chat_Application\Webstation_Chat_Application\obj\Debug\Webstation_Chat_Application.pdb
